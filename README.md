@@ -12,8 +12,6 @@
  
  🌱 I’m currently learning about **Machine Learning**.
 
-💬 Ask me about **Node.js, React, MongoDB, MySQL, Java, JavaScript... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
 ⚡ Fun fact **I love exploring new technologies and building cool stuff!**
 
  </div>
