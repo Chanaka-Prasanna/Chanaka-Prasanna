@@ -3,16 +3,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Rubik+Doodle+Shadow&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+and+welcome!;+I'm+Chanaka+Prasanna!;"  />
 </h1>
 <!-- Myself -->
-<h3 align="center">AI enthusiast and Software Engineering Intern from Sri Lanka, merging passion and innovation to explore the limitless possibilities of technology</h3>
+<h3 align="center">AI/ML Enthusiast & Blogger | Undergraduate at University of Moratuwa</h3>
 
 <!-- About me -->
 <div align="center">
 
- 🔭 I’m currently a 3rd-year undergraduate at the **University of Moratuwa** and an Intern Software Engineer at **Infinity Innovators**.
- 
- 🌱 I’m currently learning about **Machine Learning**.
+I'm a fourth-year undergraduate with a passion for Artificial Intelligence and Machine Learning. I love discovering new technologies and experimenting with innovative ideas. My interests lie in researching and exploring cutting-edge advancements in the tech world. As a blogger, I enjoy sharing insights and writing about the latest trends and developments in AI and ML.
 
-⚡ Fun fact **I love exploring new technologies and building cool stuff!**
+Always eager to learn and grow, I'm dedicated to pushing the boundaries of what's possible. Feel free to connect with me to share insights, collaborate on projects, or discuss the latest trends in AI and ML
+
 
  </div>
 
