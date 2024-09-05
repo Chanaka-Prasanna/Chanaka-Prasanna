@@ -26,7 +26,7 @@ Always eager to learn and grow, I'm dedicated to pushing the boundaries of what'
   <a href="https://www.hackerrank.com/profile/dissanayakadmcp1" target="_blank">
      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank" />
   </a>
-   <a href="https://www.facebook.com/profile.php?id=100087070306810" target="_blank" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+   <a href="https://web.facebook.com/profile.php?id=61563204097644" target="_blank" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
 </div>
