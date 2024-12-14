@@ -17,6 +17,10 @@ Always eager to learn and grow, I'm dedicated to pushing the boundaries of what'
 
 <!-- Profile links -->
 <div align="center"> 
+      <!-- Portfolio link -->
+  <a href="https://chanakaprasanna.com" target="_blank" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
   <a href="mailto:chanakapinfo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
