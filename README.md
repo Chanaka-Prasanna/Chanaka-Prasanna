@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Rubik+Doodle+Shadow&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+and+welcome!;+I'm+Chanaka+Prasanna!;"  />
 </h1>
 <!-- Myself -->
-<h3 align="center">AI/ML Enthusiast & Blogger | Undergraduate at University of Moratuwa</h3>
+<h3 align="center">AI/ML Enthusiast | Blogger | Undergraduate at University of Moratuwa</h3>
 
 <!-- About me -->
 <div align="center">
