@@ -39,9 +39,15 @@ Always eager to learn and grow, I'm dedicated to pushing the boundaries of what'
 <h2 align="center">🌟 Languages-Frameworks-Tools 🌟</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,javascript,typescript,html,css,react,nodejs,express,antdesign,git,github,figma,postman,vscode" /><br/>
+    <!-- AI/ML Technologies -->
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,langchain" />
+    <img src="https://skillicons.dev/icons?i=crewai" /><br/>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,c,html,css" /><br/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,antdesign" /><br/>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" /><br/>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br/>
 </div>
+
 
 <hr/>
 
