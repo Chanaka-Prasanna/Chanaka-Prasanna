@@ -16,8 +16,8 @@
 const chanaka = {
   education: "Undergraduate at University of Moratuwa",
   passions: ["Artificial Intelligence", "Machine Learning", "Blogging"],
-  interests: ["Researching new technologies", "Exploring innovation", "Sharing insights"],
-  currentlyLearning: ["Advanced Deep Learning", "MLOps", "LLM Fine-tuning"],
+  interests: ["Writing Blogs", "Researching new technologies", "Exploring innovation", "Sharing insights"],
+  specializing: ["Deep Learning", "Machine Learning", "LLM","Natural Language Processing","Reinforcement Learning", "Neural Networks"],
   goals: "Pushing the boundaries of what's possible in AI"
 };
 ```
